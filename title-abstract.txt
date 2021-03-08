@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Airborne Infection Risk Estimator for COVID-19
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The global pandemic of COVID-19 has demonstrated the exceptional transmissibility of the SARS-CoV-2 virus and has highlighted the vulnerability of our built environments to similar airborne pathogens. The traditional process for retrieving information in the target area and making estimations is quite complicated and involves a lot of manual work. In order to bring a convenient and comprehensive view of important information and estimations in interested zones, our team has developed an open source app which could be easy enough to be used by the everyday consumer or as detailed as a building manager needs it to be. 
